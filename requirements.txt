@@ -17,3 +17,7 @@ xgboost==3.0.0
 lightgbm==4.0.0
 catboost==1.2.8
 pytest==8.3.5
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+streamlit==1.47.1
+seaborn==0.13.2
